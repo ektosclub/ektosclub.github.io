@@ -2056,7 +2056,7 @@ html.mobile .showForMobileInline {
   width: 0%;
   transition: width 1s, opacity 1s;
   z-index: 1000;
-  opacity: 100;
+  opacity: 1;
 }
 .progress-bar.loaded {
   width: 100%;
