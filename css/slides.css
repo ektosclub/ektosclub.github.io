@@ -5332,7 +5332,7 @@ body {
 }
 
 .yellow {
-  background: #FFEB3B !important;
+  background: #f29f05 !important;
   color: #202020 !important;
 }
 .yellow svg {
@@ -5340,18 +5340,18 @@ body {
 }
 
 .text-yellow {
-  color: #FFEB3B !important;
+  color: #f29f05 !important;
 }
 .text-yellow.button svg {
-  fill: #FFEB3B !important;
+  fill: #f29f05 !important;
 }
 
 .stroke.button.yellow {
-  color: #FFEB3B !important;
-  border-color: #FFEB3B !important;
+  color: #f29f05 !important;
+  border-color: #f29f05 !important;
 }
 .stroke.button.yellow svg {
-  fill: #FFEB3B !important;
+  fill: #f29f05 !important;
 }
 
 .amber {
